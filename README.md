@@ -59,10 +59,14 @@ Note: All the data set has been taken from http://archive.ics.uci.edu/ml/dataset
 * we have imputed the mean value in place of 'nan'
 
 # Technology Used:
-* R
+* Pyton
 * Scala
 * Scalation
 * sbt
+* Keras
+* Tensorflow
+* numpy
+* Pandas
 
 # Team Member:
 * Priyank Malviya(Priyank.Malviya@uga.edu) 
